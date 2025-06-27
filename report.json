@@ -1,0 +1,10 @@
+{
+    "missing_headers": [
+        "Content-Security-Policy",
+        "Strict-Transport-Security",
+        "X-Frame-Options"
+    ],
+    "sql_injection": false,
+    "xss": false,
+    "open_ports": {}
+}
